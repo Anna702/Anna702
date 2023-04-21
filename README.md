@@ -1,4 +1,4 @@
 ### Hi there 👋
-I’m currently taking a Coding Bootcamp with Northcoders.com<br>
-Can't wait to become a software developer in 13 weeks 🔭🤔.<br>
-I live in Folkestone (UK, Kent), родилась и выросла в Москве :smirk:
+I am a recent graduate of a Software Development bootcamp!<br>
+My background in Journalism and PR and my passion for technologies led me to enrol in Northcoders bootcamp, where I challenged myself and gained valuable skills in development <br>
+
