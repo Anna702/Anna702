@@ -1,4 +1,4 @@
 ### Hi there 👋
-I am a novice junior Software Developer<br>
-My background in Journalism and PR and my passion for technologies led me to enrol in IT bootcamp, where I challenge myself and gain valuable skills in coding. <br>
+I am a Junior Software Developer with a strong background in Journalism and PR. <br>
+Can transform any brief into a logical narrative and translate tech jargon into casual language. <br>
 
